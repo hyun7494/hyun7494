@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun7494&show_icons=true&theme=gruvbox))](https://github.com/hyun7494/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun7494&show_icons=true&theme=gruvbox)](https://github.com/hyun7494/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=et002727)](https://solved.ac/et002727/)
 
 # 💻✌Skills
