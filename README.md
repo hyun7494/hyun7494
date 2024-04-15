@@ -5,7 +5,7 @@
 
 - PathVariable에는 Camel Case사용하지 않기 → snake case(product_id)
 
-- Commit❗
+- ❗ Commit
 
   - `Feat` :새로운 기능 추가
 
@@ -32,7 +32,7 @@
 
   - `Remove` :파일을 삭제하는 작업만 수행하는 경우
 
-### Branch :man_technologist:
+### :man_technologist: Branch 
 #### 1. main
 
 제품으로 출시 될 수 있는 브랜치
