@@ -32,20 +32,21 @@
 
   - `Remove` :파일을 삭제하는 작업만 수행하는 경우
 
-### 1. main
+### Branch
+#### 1. main
 
 제품으로 출시 될 수 있는 브랜치
 
 - 모든 기능이 추가되고 버그가 수정되어 **배포가능한 release 브랜치를 병합**한다.
 
-### 2. develop branch
+#### 2. develop branch
 
 다음 출시 버전을 개발하는 브랜치
 
 - 기능 개발을 위한 브랜치 (feature) 를 병합하기 위해 사용한다.
 - **새로운 기능에 대한 feature 브랜치를 병합**한다.
 
-### 3. Supporting branches
+#### 3. Supporting branches
 
 - **feature branch**
     
