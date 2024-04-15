@@ -32,7 +32,7 @@
 
   - `Remove` :파일을 삭제하는 작업만 수행하는 경우
 
-### Branch
+### Branch:man_technologist:
 #### 1. main
 
 제품으로 출시 될 수 있는 브랜치
