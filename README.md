@@ -5,7 +5,7 @@
 
 - PathVariable에는 Camel Case사용하지 않기 → snake case(product_id)
 
--❗ Commit
+- Commit
 
   - `Feat` :새로운 기능 추가
 
