@@ -5,7 +5,7 @@
 
 - PathVariable에는 Camel Case사용하지 않기 → snake case(product_id)
 
-- Commit
+- Commit❗
 
   - `Feat` :새로운 기능 추가
 
@@ -27,6 +27,6 @@
 
   - `Init` : 프로젝트 초기 생성
 
-`Rename` :파일 혹은 폴더명 수정하거나 옮기는 경우
+  - `Rename` :파일 혹은 폴더명 수정하거나 옮기는 경우
 
-`Remove` :파일을 삭제하는 작업만 수행하는 경우
+  - `Remove` :파일을 삭제하는 작업만 수행하는 경우
